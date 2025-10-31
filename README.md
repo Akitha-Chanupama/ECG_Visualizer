@@ -17,7 +17,7 @@ A **medical-grade 12-lead ECG** visualization web application built with **React
   * Limb Leads: *I, II, III, aVR, aVL, aVF*
   * Chest Leads: *V1 – V6*
 
-* 👆 **Interactive Controls**
+* 👆 **Interactive Controls
 
   * Toggle leads on/off
   * Switch between pages (Limb vs Chest)
