@@ -17,7 +17,7 @@ A **medical-grade 12-lead ECG** visualization web application built with **React
   * Limb Leads: *I, II, III, aVR, aVL, aVF*
   * Chest Leads: *V1 – V6*
 
-* 👆 **Interactive Controls
+* 👆 **Interactive Controls**
 
   * Toggle leads on/off
   * Switch between pages (Limb vs Chest)
@@ -117,4 +117,6 @@ I can also add any of the following:
 * Badges (build, license, npm)
 * A screenshot or GIF demo section
 * A logo/banner for the repo
-* Exampl
+* Example CSV files and a sample dataset
+
+If you'd like any of those, tell me which and I’ll add them to the canvas README.
