@@ -1,6 +1,6 @@
 # ⚡ ECG Visualizer
 
-A **medical-grade 12-lead ECG** visualization web application built with **React + TypeScript** and **pure HTML5 Canvas**.
+A **medical-grade 12-lead ECG** visualization web application built with **React + TypeScript** and **pure HTML5 Canvas**.!
 
 ---
 
